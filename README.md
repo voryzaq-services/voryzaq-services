@@ -1,16 +1,51 @@
-## Hi there 👋
+# VORYZAQ SERVICES
 
-<!--
-**voryzaq-services/voryzaq-services** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Design & Development Studio
 
-Here are some ideas to get you started:
+We build modern, high-performance websites for
+**brands, businesses & creators.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## WHAT WE DO
+
+🌐 Website Design  
+💻 Web Development  
+🛍️ E-Commerce  
+🎨 Landing Pages  
+⚡ Website Optimization  
+🔧 Website Maintenance  
+
+---
+
+---
+
+## OUR APPROACH
+
+**DISCOVER → DESIGN → BUILD → LAUNCH**
+
+We focus on clean design, strong user experiences,
+responsive development and websites that actually
+represent the businesses behind them.
+
+---
+
+## TECH STACK
+
+HTML5 · CSS3 · JavaScript · GitHub Pages
+
+---
+
+## LET'S WORK TOGETHER
+
+Have a project in mind?
+
+📩 **your-email@example.com**
+
+🌐 **Portfolio:** Coming Soon
+
+---
+
+### VORYZAQ SERVICES
+
+**WE DESIGN. WE BUILD. WE GROW.**
