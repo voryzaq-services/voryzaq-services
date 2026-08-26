@@ -32,7 +32,7 @@ represent the businesses behind them.
 
 ## TECH STACK
 
-HTML5 · CSS3 · JavaScript · GitHub Pages
+HTML5 · CSS3 · JavaScript · GitHub Pages . Wordpress
 
 ---
 
@@ -40,7 +40,7 @@ HTML5 · CSS3 · JavaScript · GitHub Pages
 
 Have a project in mind?
 
-📩 **your-email@example.com**
+📩 voryzaq@gmail.com
 
 🌐 **Portfolio:** Coming Soon
 
